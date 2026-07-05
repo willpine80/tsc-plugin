@@ -1,0 +1,19 @@
+{
+  "name": "tsc",
+  "version": "0.2.2",
+  "description": "Pre-built nonprofit/arts-org workflows for The Stamford Chorale (cash and grant tracking, month-end close, weekly briefs, concert and donor campaigns, program-ad and sponsor outreach) using your QuickBooks, PayPal, Stripe, HubSpot, Microsoft 365, and Canva. Ticketing runs in Ludus and member management in ChorusConnection, both synced into QuickBooks via n8n. You approve every step that touches money, donors, or patrons.",
+  "author": {
+    "name": "The Stamford Chorale"
+  },
+  "keywords": [
+    "nonprofit",
+    "arts",
+    "chorale",
+    "finance",
+    "fundraising",
+    "grants",
+    "marketing",
+    "all-in-one",
+    "small business"
+  ]
+}

@@ -1,0 +1,9 @@
+.DS_Store
+dist/
+__pycache__/
+*.pyc
+mcp/chorus-connection/.env
+mcp/chorus-connection/.cc_release_version
+
+# private — never commit to the public plugin repo
+mcp/

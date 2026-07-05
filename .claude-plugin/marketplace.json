@@ -1,0 +1,17 @@
+{
+  "name": "thestamfordchorale",
+  "owner": {
+    "name": "The Stamford Chorale"
+  },
+  "plugins": [
+    {
+      "name": "tsc",
+      "source": "./",
+      "description": "Customized small-business workflows for The Stamford Chorale \u2014 finance, fundraising, patron care, and board operations across QuickBooks, PayPal, Stripe, HubSpot, Microsoft 365, and Canva.",
+      "version": "0.2.2",
+      "author": {
+        "name": "The Stamford Chorale"
+      }
+    }
+  ]
+}
